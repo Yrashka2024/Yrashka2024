@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Yrashka!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=5CE1E6&center=true&vCenter=true&lines=Python+Junior+Developer+🐍;Telegram+Bot+Maker+🤖;16+y.o.+from+Russia🇷🇺;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=5CE1E6&center=true&vCenter=true&lines=Python+Junior+Developer+🐍;Telegram+Bot+Maker+🤖;16+y.o.+from+Russia;Always+learning+new+things+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
